@@ -1,45 +1,47 @@
-{
-  "name": "/zgkb_rel-loc-adminui_1",
-  "state": "running",
-  "virtualhost": "VIRTUAL_HOST=adminui.rel-loc.zgkb.evoja.ch"
-}
-{
-  "name": "/zgkb_rel-loc-worker-prospect-core_1",
-  "state": "restarting",
-  "virtualhost": "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
-}
-{
-  "name": "/zgkb_rel-loc-worker-nios-printing_1",
-  "state": "restarting",
-  "virtualhost": "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
-}
-{
-  "name": "/zgkb_rel-loc-bap_1",
-  "state": "running",
-  "virtualhost": "VIRTUAL_HOST=beco.rel-loc.zgkb.evoja.ch"
-}
-{
-  "name": "/zgkb_rel-loc-worker-convert-cm-xml_1",
-  "state": "restarting",
-  "virtualhost": "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
-}
-{
-  "name": "/zgkb_rel-loc-api_1",
-  "state": "running",
-  "virtualhost": "VIRTUAL_HOST=api.rel-loc.zgkb.evoja.ch"
-}
-{
-  "name": "/zgkb_rel-loc-backend_1",
-  "state": "running",
-  "virtualhost": "SECURITY_AUTHENTICATION_MODEL_QUERY_FIELD=username"
-}
-{
-  "name": "/zgkb_rel-loc-backendqueue_1",
-  "state": "running",
-  "virtualhost": "RABBITMQ_LOGS=-"
-}
-{
-  "name": "/zgkb_rel-loc-database_1",
-  "state": "restarting",
-  "virtualhost": "GOSU_VERSION=1.7"
-}
+[
+  {
+    "name": "/zgkb_rel-loc-adminui_1",
+    "state": "running",
+    "virtualhost": "VIRTUAL_HOST=adminui.rel-loc.zgkb.evoja.ch"
+  },
+  {
+    "name": "/zgkb_rel-loc-worker-prospect-core_1",
+    "state": "restarting",
+    "virtualhost": "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+  },
+  {
+    "name": "/zgkb_rel-loc-worker-nios-printing_1",
+    "state": "restarting",
+    "virtualhost": "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+  },
+  {
+    "name": "/zgkb_rel-loc-bap_1",
+    "state": "running",
+    "virtualhost": "VIRTUAL_HOST=beco.rel-loc.zgkb.evoja.ch"
+  },
+  {
+    "name": "/zgkb_rel-loc-worker-convert-cm-xml_1",
+    "state": "restarting",
+    "virtualhost": "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+  },
+  {
+    "name": "/zgkb_rel-loc-api_1",
+    "state": "running",
+    "virtualhost": "VIRTUAL_HOST=api.rel-loc.zgkb.evoja.ch"
+  },
+  {
+    "name": "/zgkb_rel-loc-backend_1",
+    "state": "running",
+    "virtualhost": "SECURITY_AUTHENTICATION_MODEL_QUERY_FIELD=username"
+  },
+  {
+    "name": "/zgkb_rel-loc-backendqueue_1",
+    "state": "running",
+    "virtualhost": "RABBITMQ_LOGS=-"
+  },
+  {
+    "name": "/zgkb_rel-loc-database_1",
+    "state": "restarting",
+    "virtualhost": "GOSU_VERSION=1.7"
+  }
+]
