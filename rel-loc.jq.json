@@ -1,0 +1,72 @@
+[
+  "zgkb_rel-loc-adminui_1",
+  "zgkb",
+  "affinity:container==5a7b643efbd6a45822e6a21d34cbab342e0318d8455cc918a0fad31012b5012e",
+  "running",
+  "2016-03-07T09:42:59.104295847Z",
+  "172.17.0.13"
+]
+[
+  "zgkb_rel-loc-worker-prospect-core_1",
+  "zgkb",
+  "affinity:container==5d125ba716381c3e387f9c03cf5f181c037ff037f0b343693b61e60811c69050",
+  "restarting",
+  "2016-03-07T09:40:52.72710698Z",
+  "172.17.0.12"
+]
+[
+  "zgkb_rel-loc-worker-nios-printing_1",
+  "zgkb",
+  "affinity:container==c0249e9719c73c73b1659cbb7078f80ce19a98954851df49cb0c79d9ef76b66b",
+  "restarting",
+  "2016-03-07T09:40:52.472903751Z",
+  "172.17.0.11"
+]
+[
+  "zgkb_rel-loc-bap_1",
+  "zgkb",
+  "affinity:container==dcd5918320695960b84802e3fb73bc528b7877d387d0460da6522561366ec41b",
+  "running",
+  "2016-03-07T09:26:35.019776837Z",
+  "172.17.0.10"
+]
+[
+  "zgkb_rel-loc-worker-convert-cm-xml_1",
+  "zgkb",
+  "affinity:container==d632300d3829b155f0f83741af738c52ca95fee8ef4d512009b903fea3dc907b",
+  "restarting",
+  "2016-03-07T09:40:43.347510531Z",
+  "172.17.0.9"
+]
+[
+  "zgkb_rel-loc-api_1",
+  "zgkb",
+  "affinity:container==a759e005a767a72465cdc472f121b922fae1baeaf6975a4032f6ffeda55d7575",
+  "running",
+  "2016-03-07T09:26:31.044145043Z",
+  "172.17.0.8"
+]
+[
+  "zgkb_rel-loc-backend_1",
+  "zgkb",
+  "affinity:container==403e0a9acc52b6754455cea022a5c55e9f4be59b22559122bdb6ab8698865178",
+  "running",
+  "2016-03-07T09:26:28.51369499Z",
+  "172.17.0.7"
+]
+[
+  "zgkb_rel-loc-backendqueue_1",
+  "zgkb",
+  "PATH=/usr/lib/rabbitmq/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+  "running",
+  "2016-03-07T08:57:53.686746175Z",
+  "172.17.0.6"
+]
+[
+  "zgkb_rel-loc-database_1",
+  "zgkb",
+  "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+  "restarting",
+  "2016-03-07T09:25:16.315818881Z",
+  "172.17.0.5"
+]
