@@ -1,0 +1,233 @@
+[
+  {
+    "name": "szkb_rel-pub-worker-convert-cm-xml",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T09:35:33.505787933Z"
+  },
+  {
+    "name": "zgkb_rel-pub-adminui",
+    "virtualhost": "adminui.rel-pub.zgkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T09:29:15.784874193Z"
+  },
+  {
+    "name": "zgkb_rel-pub-worker-convert-cm-xml",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T07:43:15.600357855Z"
+  },
+  {
+    "name": "szkb_rel-pub-worker-prospect-core",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:22:46.280293845Z"
+  },
+  {
+    "name": "swisscom_rel-pub-worker-convert-cm-xml",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:21:52.862834567Z"
+  },
+  {
+    "name": "swisscom_rel-pub-worker-prospect-core",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:21:52.235726978Z"
+  },
+  {
+    "name": "swisscom_rel-pub-bap",
+    "virtualhost": "beco.rel-pub.swisscom.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:21:11.797004594Z"
+  },
+  {
+    "name": "swisscom_rel-pub-adminui",
+    "virtualhost": "adminui.rel-pub.swisscom.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:21:10.740219562Z"
+  },
+  {
+    "name": "swisscom_rel-pub-api",
+    "virtualhost": "api.rel-pub.swisscom.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:21:09.884041451Z"
+  },
+  {
+    "name": "swisscom_rel-pub-backend",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:21:08.977416641Z"
+  },
+  {
+    "name": "zgkb_rel-pub-worker-prospect-core",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:20:42.123524448Z"
+  },
+  {
+    "name": "zgkb_rel-pub-bap",
+    "virtualhost": "beco.rel-pub.zgkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:19:58.584629248Z"
+  },
+  {
+    "name": "zgkb_rel-pub-api",
+    "virtualhost": "api.rel-pub.zgkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:19:56.983688265Z"
+  },
+  {
+    "name": "zgkb_rel-pub-backend",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:19:56.088202377Z"
+  },
+  {
+    "name": "gkb_rel-pub-worker-convert-cm-xml",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:09:46.178500121Z"
+  },
+  {
+    "name": "gkb_rel-pub-worker-prospect-core",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:09:45.440768483Z"
+  },
+  {
+    "name": "gkb_rel-pub-api",
+    "virtualhost": "api.rel-pub.gkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:09:16.947969725Z"
+  },
+  {
+    "name": "gkb_rel-pub-backend",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T06:09:16.044090343Z"
+  },
+  {
+    "name": "szkb_rel-pub-bap",
+    "virtualhost": "beco.rel-pub.szkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T05:30:24.433026523Z"
+  },
+  {
+    "name": "szkb_rel-pub-adminui",
+    "virtualhost": "adminui.rel-pub.szkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T05:30:23.599674442Z"
+  },
+  {
+    "name": "szkb_rel-pub-api",
+    "virtualhost": "api.rel-pub.szkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T05:30:22.797047463Z"
+  },
+  {
+    "name": "szkb_rel-pub-backend",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-17T05:30:22.032127877Z"
+  },
+  {
+    "name": "swisscom_rel-pub-messagequeue",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-14T08:54:04.785123464Z"
+  },
+  {
+    "name": "zgkb_rel-pub-messagequeue",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-11T16:28:24.176662901Z"
+  },
+  {
+    "name": "gkb_rel-pub-messagequeue",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-11T14:38:57.768708135Z"
+  },
+  {
+    "name": "szkb_rel-pub-messagequeue",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-11T14:28:25.106156158Z"
+  },
+  {
+    "name": "gkb_rel-pub-database",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-11T05:13:58.103863181Z"
+  },
+  {
+    "name": "zgkb_rel-pub-database",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-11T01:18:09.551230076Z"
+  },
+  {
+    "name": "swisscom_rel-pub-database",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-11T01:08:32.80103935Z"
+  },
+  {
+    "name": "szkb_rel-pub-database",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-11T01:08:13.816543513Z"
+  },
+  {
+    "name": "services_rel-pub-jenkins",
+    "virtualhost": "jenkins.rel-pub.services.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-11T01:07:47.947969661Z"
+  },
+  {
+    "name": "services_rel-pub-dockerui",
+    "virtualhost": "dockerui.rel-pub.services.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-11T01:05:23.398519263Z"
+  },
+  {
+    "name": "services_rel-pub-sni-router",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-03-11T01:05:23.153404052Z"
+  }
+]
