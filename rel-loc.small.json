@@ -1,26 +1,62 @@
 [
   {
-    "name": "zgkb_rel-loc-backendqueue",
+    "name": "zgkb_rel-loc-loader",
     "virtualhost": "n/a",
     "state": "running",
-    "started": "2016-03-13T11:44:19.161566461Z"
+    "started": "2016-03-17T09:04:48.349625967Z"
+  },
+  {
+    "name": "zgkb_rel-loc-worker-prospect-core",
+    "virtualhost": "n/a",
+    "state": "restarting",
+    "started": "2016-03-17T09:03:24.533008518Z"
+  },
+  {
+    "name": "zgkb_rel-loc-worker-nios-printing",
+    "virtualhost": "n/a",
+    "state": "restarting",
+    "started": "2016-03-17T09:03:24.439811888Z"
+  },
+  {
+    "name": "zgkb_rel-loc-adminui",
+    "virtualhost": "adminui.rel-loc.zgkb.evoja.ch",
+    "state": "running",
+    "started": "2016-03-17T09:01:13.908286393Z"
+  },
+  {
+    "name": "zgkb_rel-loc-bap",
+    "virtualhost": "beco.rel-loc.zgkb.evoja.ch",
+    "state": "running",
+    "started": "2016-03-17T09:01:13.07083122Z"
+  },
+  {
+    "name": "zgkb_rel-loc-worker-convert-cm-xml",
+    "virtualhost": "n/a",
+    "state": "restarting",
+    "started": "2016-03-17T09:03:18.494728848Z"
+  },
+  {
+    "name": "zgkb_rel-loc-api",
+    "virtualhost": "api.rel-loc.zgkb.evoja.ch",
+    "state": "running",
+    "started": "2016-03-17T09:01:11.425765808Z"
+  },
+  {
+    "name": "zgkb_rel-loc-backend",
+    "virtualhost": "n/a",
+    "state": "running",
+    "started": "2016-03-17T09:01:10.519323367Z"
+  },
+  {
+    "name": "zgkb_rel-loc-messagequeue",
+    "virtualhost": "n/a",
+    "state": "running",
+    "started": "2016-03-17T09:01:09.782438047Z"
   },
   {
     "name": "zgkb_rel-loc-database",
     "virtualhost": "n/a",
     "state": "restarting",
-    "started": "2016-03-14T11:31:51.613847383Z"
-  },
-  {
-    "name": "services_rel-loc-dockerui",
-    "virtualhost": "dockerui.rel-loc.services.evoja.ch",
-    "state": "running",
-    "started": "2016-03-13T11:44:19.0357908Z"
-  },
-  {
-    "name": "services_rel-loc-sni-router",
-    "virtualhost": "n/a",
-    "state": "running",
-    "started": "2016-03-13T11:44:19.587910572Z"
+    "started": "2016-03-17T09:04:37.791725125Z"
   }
 ]
