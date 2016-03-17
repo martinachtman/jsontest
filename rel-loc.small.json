@@ -2,61 +2,71 @@
   {
     "name": "zgkb_rel-loc-loader",
     "virtualhost": "n/a",
+    "branch": "latest",
     "state": "running",
-    "started": "2016-03-17T09:04:48.349625967Z"
+    "started": "2016-03-17T13:38:54.518041327Z"
   },
   {
     "name": "zgkb_rel-loc-worker-prospect-core",
     "virtualhost": "n/a",
+    "branch": "latest",
     "state": "restarting",
-    "started": "2016-03-17T09:03:24.533008518Z"
+    "started": "2016-03-17T12:40:23.489496245Z"
   },
   {
     "name": "zgkb_rel-loc-worker-nios-printing",
     "virtualhost": "n/a",
+    "branch": "latest",
     "state": "restarting",
-    "started": "2016-03-17T09:03:24.439811888Z"
+    "started": "2016-03-17T12:40:23.45639427Z"
   },
   {
     "name": "zgkb_rel-loc-adminui",
     "virtualhost": "adminui.rel-loc.zgkb.evoja.ch",
+    "branch": "latest",
     "state": "running",
     "started": "2016-03-17T09:01:13.908286393Z"
   },
   {
     "name": "zgkb_rel-loc-bap",
     "virtualhost": "beco.rel-loc.zgkb.evoja.ch",
+    "branch": "latest",
     "state": "running",
     "started": "2016-03-17T09:01:13.07083122Z"
   },
   {
     "name": "zgkb_rel-loc-worker-convert-cm-xml",
     "virtualhost": "n/a",
+    "branch": "latest",
     "state": "restarting",
-    "started": "2016-03-17T09:03:18.494728848Z"
+    "started": "2016-03-17T12:40:12.471046562Z"
   },
   {
     "name": "zgkb_rel-loc-api",
     "virtualhost": "api.rel-loc.zgkb.evoja.ch",
+    "branch": "latest",
     "state": "running",
     "started": "2016-03-17T09:01:11.425765808Z"
   },
   {
     "name": "zgkb_rel-loc-backend",
     "virtualhost": "n/a",
+    "branch": "latest",
     "state": "running",
     "started": "2016-03-17T09:01:10.519323367Z"
   },
   {
     "name": "zgkb_rel-loc-messagequeue",
     "virtualhost": "n/a",
+    "branch": "latest",
     "state": "running",
     "started": "2016-03-17T09:01:09.782438047Z"
   },
   {
     "name": "zgkb_rel-loc-database",
     "virtualhost": "n/a",
+    "branch": "latest",
     "state": "restarting",
-    "started": "2016-03-17T09:04:37.791725125Z"
+    "started": "2016-03-17T12:39:41.799184522Z"
   }
 ]
