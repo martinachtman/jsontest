@@ -11,7 +11,7 @@
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-05T06:54:30.418455878Z"
+    "started": "2016-04-05T06:55:51.55164965Z"
   },
   {
     "name": "zgkb_rel-loc-worker-prospect-core",
@@ -74,6 +74,6 @@
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "restarting",
-    "started": "2016-04-05T06:41:48.842543995Z"
+    "started": "2016-04-05T06:55:28.404927306Z"
   }
 ]
