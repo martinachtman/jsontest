@@ -1,79 +1,79 @@
 [
   {
-    "name": "zgkb_rel-loc-worker-investment-document",
-    "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "restarting",
-    "started": "2016-04-05T07:53:02.511750095Z"
-  },
-  {
-    "name": "zgkb_rel-loc-loader",
-    "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-04-05T07:53:43.618961103Z"
-  },
-  {
-    "name": "zgkb_rel-loc-worker-prospect-core",
-    "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "restarting",
-    "started": "2016-04-05T07:53:01.996320562Z"
-  },
-  {
-    "name": "zgkb_rel-loc-worker-nios-printing",
-    "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "restarting",
-    "started": "2016-04-05T07:53:01.669916713Z"
-  },
-  {
-    "name": "zgkb_rel-loc-adminui",
-    "virtualhost": "adminui.rel-loc.zgkb.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-04-05T07:25:02.520271788Z"
-  },
-  {
-    "name": "zgkb_rel-loc-bap",
-    "virtualhost": "beco.rel-loc.zgkb.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-04-05T07:25:01.475169361Z"
-  },
-  {
     "name": "zgkb_rel-loc-worker-convert-cm-xml",
     "virtualhost": "n/a",
     "branch": "latest",
-    "state": "restarting",
-    "started": "2016-04-05T07:52:51.663958396Z"
+    "state": "running",
+    "started": "2016-04-05T08:17:53.131915556Z"
   },
   {
     "name": "zgkb_rel-loc-api",
     "virtualhost": "api.rel-loc.zgkb.evoja.ch",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-05T07:24:59.562990029Z"
+    "started": "2016-04-05T08:17:52.604034611Z"
   },
   {
     "name": "zgkb_rel-loc-backend",
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-05T07:24:58.500684973Z"
+    "started": "2016-04-05T08:17:51.9110886Z"
+  },
+  {
+    "name": "zgkb_rel-loc-worker-investment-document",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-05T08:17:57.17293993Z"
+  },
+  {
+    "name": "zgkb_rel-loc-loader",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-05T08:17:56.505601983Z"
+  },
+  {
+    "name": "zgkb_rel-loc-worker-prospect-core",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-05T08:17:55.671724663Z"
+  },
+  {
+    "name": "zgkb_rel-loc-worker-nios-printing",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-05T08:17:55.115701261Z"
+  },
+  {
+    "name": "zgkb_rel-loc-adminui",
+    "virtualhost": "adminui.rel-loc.zgkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-05T08:17:54.270275939Z"
+  },
+  {
+    "name": "zgkb_rel-loc-bap",
+    "virtualhost": "beco.rel-loc.zgkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-05T08:17:53.805676128Z"
   },
   {
     "name": "zgkb_rel-loc-messagequeue",
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-05T07:24:57.34254861Z"
+    "started": "2016-04-05T08:17:51.403709009Z"
   },
   {
     "name": "zgkb_rel-loc-database",
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "restarting",
-    "started": "2016-04-05T07:52:21.462356126Z"
+    "started": "2016-04-05T08:17:57.582337543Z"
   }
 ]
