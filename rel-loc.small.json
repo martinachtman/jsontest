@@ -4,76 +4,76 @@
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-07T06:16:24.189646697Z"
-  },
-  {
-    "name": "zgkb_rel-loc-worker-prospect-core",
-    "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-04-07T06:16:20.988438518Z"
-  },
-  {
-    "name": "zgkb_rel-loc-adminui",
-    "virtualhost": "adminui.rel-loc.zgkb.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-04-07T06:16:18.498335825Z"
+    "started": "2016-04-07T07:11:44.779578134Z"
   },
   {
     "name": "zgkb_rel-loc-loader",
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-07T06:16:22.772189566Z"
+    "started": "2016-04-07T07:11:43.24397269Z"
+  },
+  {
+    "name": "zgkb_rel-loc-worker-prospect-core",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-07T07:11:42.23847547Z"
   },
   {
     "name": "zgkb_rel-loc-worker-nios-printing",
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-07T06:16:26.350385378Z"
+    "started": "2016-04-07T07:11:41.225621316Z"
+  },
+  {
+    "name": "zgkb_rel-loc-adminui",
+    "virtualhost": "adminui.rel-loc.zgkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-07T07:11:40.280255587Z"
   },
   {
     "name": "zgkb_rel-loc-bap",
     "virtualhost": "beco.rel-loc.zgkb.evoja.ch",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-07T06:16:17.496125586Z"
+    "started": "2016-04-07T07:11:39.152219684Z"
   },
   {
     "name": "zgkb_rel-loc-worker-convert-cm-xml",
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-07T06:16:26.25738933Z"
+    "started": "2016-04-07T07:11:44.681051738Z"
   },
   {
     "name": "zgkb_rel-loc-api",
     "virtualhost": "api.rel-loc.zgkb.evoja.ch",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-07T06:16:16.08833762Z"
+    "started": "2016-04-07T07:11:37.303289407Z"
   },
   {
     "name": "zgkb_rel-loc-backend",
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-07T06:16:15.498772385Z"
+    "started": "2016-04-07T07:11:36.255640477Z"
   },
   {
     "name": "zgkb_rel-loc-messagequeue",
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "running",
-    "started": "2016-04-07T06:16:15.084768127Z"
+    "started": "2016-04-07T07:11:35.382503312Z"
   },
   {
     "name": "zgkb_rel-loc-database",
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "restarting",
-    "started": "2016-04-07T06:16:24.839398706Z"
+    "started": "2016-04-07T07:11:43.89564432Z"
   }
 ]
