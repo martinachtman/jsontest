@@ -1,0 +1,79 @@
+[
+  {
+    "name": "zgkb_rel-loc-worker-investment-document",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "restarting",
+    "started": "2016-04-07T11:57:55.728527551Z"
+  },
+  {
+    "name": "zgkb_rel-loc-loader",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-07T08:18:46.051439889Z"
+  },
+  {
+    "name": "zgkb_rel-loc-worker-prospect-core",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "restarting",
+    "started": "2016-04-07T11:57:55.685004957Z"
+  },
+  {
+    "name": "zgkb_rel-loc-worker-nios-printing",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "restarting",
+    "started": "2016-04-07T11:57:48.017591039Z"
+  },
+  {
+    "name": "zgkb_rel-loc-adminui",
+    "virtualhost": "adminui.rel-loc.zgkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-07T08:18:42.918573263Z"
+  },
+  {
+    "name": "zgkb_rel-loc-bap",
+    "virtualhost": "beco.rel-loc.zgkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-07T08:18:41.934929127Z"
+  },
+  {
+    "name": "zgkb_rel-loc-worker-convert-cm-xml",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "restarting",
+    "started": "2016-04-07T11:57:45.227225763Z"
+  },
+  {
+    "name": "zgkb_rel-loc-api",
+    "virtualhost": "api.rel-loc.zgkb.evoja.ch",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-07T08:18:40.187183636Z"
+  },
+  {
+    "name": "zgkb_rel-loc-backend",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-07T08:18:39.359728258Z"
+  },
+  {
+    "name": "zgkb_rel-loc-messagequeue",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "running",
+    "started": "2016-04-07T08:18:38.432686858Z"
+  },
+  {
+    "name": "zgkb_rel-loc-database",
+    "virtualhost": "n/a",
+    "branch": "latest",
+    "state": "restarting",
+    "started": "2016-04-07T11:57:12.009584372Z"
+  }
+]
