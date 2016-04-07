@@ -3,8 +3,8 @@
     "name": "zgkb_rel-loc-worker-investment-document",
     "virtualhost": "n/a",
     "branch": "latest",
-    "state": "running",
-    "started": "2016-04-07T08:18:47.605683784Z"
+    "state": "restarting",
+    "started": "2016-04-07T11:57:55.728527551Z"
   },
   {
     "name": "zgkb_rel-loc-loader",
@@ -17,15 +17,15 @@
     "name": "zgkb_rel-loc-worker-prospect-core",
     "virtualhost": "n/a",
     "branch": "latest",
-    "state": "running",
-    "started": "2016-04-07T08:18:44.973982211Z"
+    "state": "restarting",
+    "started": "2016-04-07T11:57:55.685004957Z"
   },
   {
     "name": "zgkb_rel-loc-worker-nios-printing",
     "virtualhost": "n/a",
     "branch": "latest",
-    "state": "running",
-    "started": "2016-04-07T08:18:43.972416987Z"
+    "state": "restarting",
+    "started": "2016-04-07T11:57:48.017591039Z"
   },
   {
     "name": "zgkb_rel-loc-adminui",
@@ -45,8 +45,8 @@
     "name": "zgkb_rel-loc-worker-convert-cm-xml",
     "virtualhost": "n/a",
     "branch": "latest",
-    "state": "running",
-    "started": "2016-04-07T08:18:46.937235747Z"
+    "state": "restarting",
+    "started": "2016-04-07T11:57:45.227225763Z"
   },
   {
     "name": "zgkb_rel-loc-api",
@@ -74,6 +74,6 @@
     "virtualhost": "n/a",
     "branch": "latest",
     "state": "restarting",
-    "started": "2016-04-07T08:18:46.396176863Z"
+    "started": "2016-04-07T11:57:12.009584372Z"
   }
 ]
