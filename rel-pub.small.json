@@ -1,233 +1,219 @@
 [
   {
-    "name": "szkb_rel-pub-worker-convert-cm-xml",
+    "name": "szkb_dev-pub-bap",
+    "virtualhost": "beco.dev-pub.szkb.evoja.ch",
+    "branch": "master",
+    "state": "running",
+    "started": "2016-04-07T13:19:47.710206827Z"
+  },
+  {
+    "name": "szkb_dev-pub-worker-prospect-core",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-17T09:35:33.505787933Z"
+    "started": "2016-04-07T13:20:27.182547648Z"
   },
   {
-    "name": "zgkb_rel-pub-adminui",
-    "virtualhost": "adminui.rel-pub.zgkb.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T09:29:15.784874193Z"
-  },
-  {
-    "name": "zgkb_rel-pub-worker-convert-cm-xml",
+    "name": "szkb_dev-pub-worker-convert-cm-xml",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-17T07:43:15.600357855Z"
+    "started": "2016-04-07T13:20:26.401096108Z"
   },
   {
-    "name": "szkb_rel-pub-worker-prospect-core",
+    "name": "szkb_dev-pub-adminui",
+    "virtualhost": "adminui.dev-pub.szkb.evoja.ch",
+    "branch": "develop",
+    "state": "running",
+    "started": "2016-04-07T13:19:45.093454383Z"
+  },
+  {
+    "name": "szkb_dev-pub-api",
+    "virtualhost": "api.dev-pub.szkb.evoja.ch",
+    "branch": "develop",
+    "state": "running",
+    "started": "2016-04-07T13:19:44.121554357Z"
+  },
+  {
+    "name": "szkb_dev-pub-backend",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-17T06:22:46.280293845Z"
+    "started": "2016-04-07T13:19:43.11390785Z"
   },
   {
-    "name": "swisscom_rel-pub-worker-convert-cm-xml",
+    "name": "swisscom_dev-pub-bap",
+    "virtualhost": "beco.dev-pub.swisscom.evoja.ch",
+    "branch": "master",
+    "state": "running",
+    "started": "2016-04-07T12:58:54.061792513Z"
+  },
+  {
+    "name": "swisscom_dev-pub-worker-prospect-core",
     "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T06:21:52.862834567Z"
+    "branch": "develop",
+    "state": "restarting",
+    "started": "2016-04-07T14:48:38.136339772Z"
   },
   {
-    "name": "swisscom_rel-pub-worker-prospect-core",
+    "name": "swisscom_dev-pub-worker-convert-cm-xml",
     "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T06:21:52.235726978Z"
+    "branch": "develop",
+    "state": "restarting",
+    "started": "2016-04-07T14:48:37.521479737Z"
   },
   {
-    "name": "swisscom_rel-pub-bap",
-    "virtualhost": "beco.rel-pub.swisscom.evoja.ch",
-    "branch": "latest",
+    "name": "swisscom_dev-pub-adminui",
+    "virtualhost": "adminui.dev-pub.swisscom.evoja.ch",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-17T06:21:11.797004594Z"
+    "started": "2016-04-07T12:58:51.557405049Z"
   },
   {
-    "name": "swisscom_rel-pub-adminui",
-    "virtualhost": "adminui.rel-pub.swisscom.evoja.ch",
-    "branch": "latest",
+    "name": "swisscom_dev-pub-api",
+    "virtualhost": "api.dev-pub.swisscom.evoja.ch",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-17T06:21:10.740219562Z"
+    "started": "2016-04-07T12:58:50.805508234Z"
   },
   {
-    "name": "swisscom_rel-pub-api",
-    "virtualhost": "api.rel-pub.swisscom.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T06:21:09.884041451Z"
-  },
-  {
-    "name": "swisscom_rel-pub-backend",
+    "name": "swisscom_dev-pub-backend",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-17T06:21:08.977416641Z"
+    "started": "2016-04-07T12:58:49.753038753Z"
   },
   {
-    "name": "zgkb_rel-pub-worker-prospect-core",
+    "name": "gkb_dev-pub-worker-prospect-core",
     "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T06:20:42.123524448Z"
+    "branch": "develop",
+    "state": "restarting",
+    "started": "2016-04-07T14:43:05.166121573Z"
   },
   {
-    "name": "zgkb_rel-pub-bap",
-    "virtualhost": "beco.rel-pub.zgkb.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T06:19:58.584629248Z"
-  },
-  {
-    "name": "zgkb_rel-pub-api",
-    "virtualhost": "api.rel-pub.zgkb.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T06:19:56.983688265Z"
-  },
-  {
-    "name": "zgkb_rel-pub-backend",
+    "name": "gkb_dev-pub-worker-convert-cm-xml",
     "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T06:19:56.088202377Z"
+    "branch": "develop",
+    "state": "restarting",
+    "started": "2016-04-07T14:43:04.124553419Z"
   },
   {
-    "name": "gkb_rel-pub-worker-convert-cm-xml",
+    "name": "gkb_dev-pub-api",
+    "virtualhost": "api.dev-pub.gkb.evoja.ch",
+    "branch": "develop",
+    "state": "running",
+    "started": "2016-04-07T12:53:19.685219498Z"
+  },
+  {
+    "name": "gkb_dev-pub-backend",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-17T06:09:46.178500121Z"
+    "started": "2016-04-07T12:53:18.765115195Z"
   },
   {
-    "name": "gkb_rel-pub-worker-prospect-core",
+    "name": "zgkb_dev-pub-bap",
+    "virtualhost": "beco.dev-pub.zgkb.evoja.ch",
+    "branch": "master",
+    "state": "running",
+    "started": "2016-04-07T09:52:15.449080603Z"
+  },
+  {
+    "name": "zgkb_dev-pub-worker-prospect-core",
     "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T06:09:45.440768483Z"
+    "branch": "develop",
+    "state": "restarting",
+    "started": "2016-04-07T12:12:40.74888569Z"
   },
   {
-    "name": "gkb_rel-pub-api",
-    "virtualhost": "api.rel-pub.gkb.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T06:09:16.947969725Z"
-  },
-  {
-    "name": "gkb_rel-pub-backend",
+    "name": "zgkb_dev-pub-worker-convert-cm-xml",
     "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T06:09:16.044090343Z"
+    "branch": "develop",
+    "state": "restarting",
+    "started": "2016-04-07T12:12:39.66899285Z"
   },
   {
-    "name": "szkb_rel-pub-bap",
-    "virtualhost": "beco.rel-pub.szkb.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T05:30:24.433026523Z"
-  },
-  {
-    "name": "szkb_rel-pub-adminui",
-    "virtualhost": "adminui.rel-pub.szkb.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T05:30:23.599674442Z"
-  },
-  {
-    "name": "szkb_rel-pub-api",
-    "virtualhost": "api.rel-pub.szkb.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T05:30:22.797047463Z"
-  },
-  {
-    "name": "szkb_rel-pub-backend",
+    "name": "zgkb_dev-pub-worker-investment-document",
     "virtualhost": "n/a",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-17T05:30:22.032127877Z"
+    "branch": "develop",
+    "state": "restarting",
+    "started": "2016-04-07T12:12:32.224992646Z"
   },
   {
-    "name": "swisscom_rel-pub-messagequeue",
+    "name": "zgkb_dev-pub-adminui",
+    "virtualhost": "adminui.dev-pub.zgkb.evoja.ch",
+    "branch": "develop",
+    "state": "running",
+    "started": "2016-04-07T08:33:25.861474566Z"
+  },
+  {
+    "name": "zgkb_dev-pub-api",
+    "virtualhost": "api.dev-pub.zgkb.evoja.ch",
+    "branch": "develop",
+    "state": "running",
+    "started": "2016-04-07T08:33:25.07779278Z"
+  },
+  {
+    "name": "zgkb_dev-pub-backend",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-14T08:54:04.785123464Z"
+    "started": "2016-04-06T09:45:10.821765909Z"
   },
   {
-    "name": "zgkb_rel-pub-messagequeue",
+    "name": "zgkb_dev-pub-database",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-11T16:28:24.176662901Z"
+    "started": "2016-04-06T09:42:38.625589533Z"
   },
   {
-    "name": "gkb_rel-pub-messagequeue",
+    "name": "gkb_dev-pub-database",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-11T14:38:57.768708135Z"
+    "started": "2016-04-06T09:37:14.137743705Z"
   },
   {
-    "name": "szkb_rel-pub-messagequeue",
+    "name": "swisscom_dev-pub-database",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-11T14:28:25.106156158Z"
+    "started": "2016-04-06T09:35:28.465367214Z"
   },
   {
-    "name": "gkb_rel-pub-database",
+    "name": "szkb_dev-pub-database",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-11T05:13:58.103863181Z"
+    "started": "2016-04-06T09:31:53.049087668Z"
   },
   {
-    "name": "zgkb_rel-pub-database",
+    "name": "gkb_dev-pub-messagequeue",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-11T01:18:09.551230076Z"
+    "started": "2016-03-29T13:01:51.666681292Z"
   },
   {
-    "name": "swisscom_rel-pub-database",
+    "name": "zgkb_dev-pub-messagequeue",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-11T01:08:32.80103935Z"
+    "started": "2016-03-29T12:36:22.197698408Z"
   },
   {
-    "name": "szkb_rel-pub-database",
+    "name": "szkb_dev-pub-messagequeue",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-11T01:08:13.816543513Z"
+    "started": "2016-03-29T12:33:44.945105782Z"
   },
   {
-    "name": "services_rel-pub-jenkins",
-    "virtualhost": "jenkins.rel-pub.services.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-11T01:07:47.947969661Z"
-  },
-  {
-    "name": "services_rel-pub-dockerui",
-    "virtualhost": "dockerui.rel-pub.services.evoja.ch",
-    "branch": "latest",
-    "state": "running",
-    "started": "2016-03-11T01:05:23.398519263Z"
-  },
-  {
-    "name": "services_rel-pub-sni-router",
+    "name": "swisscom_dev-pub-messagequeue",
     "virtualhost": "n/a",
-    "branch": "latest",
+    "branch": "develop",
     "state": "running",
-    "started": "2016-03-11T01:05:23.153404052Z"
+    "started": "2016-03-29T12:32:58.236532532Z"
   }
 ]
